@@ -1,3 +1,2 @@
 # git-test
-
-Hello Odin
+Im going to be a good programmer xD
